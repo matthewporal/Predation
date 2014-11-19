@@ -10,7 +10,7 @@ public class Predator implements Steppable{
 	boolean isHungry;
 	
 	public Stoppable stopper = null;
-	
+	//trial trial//
 	/* A predator first tries to eat by inspecting the horizontally or vertically adjacent cells for prey and if it finds 
 	 * at least one, it randomly chooses a prey, eats it and moves to the vacated location.
 	 * After the scheduled eat method, if the starvation limit is reached, the predator dies.
