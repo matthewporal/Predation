@@ -3,6 +3,8 @@ package Predation;
 import sim.engine.*;
 import sim.util.*;
 
+/okok
+
 public  class Prey implements Steppable{ 
 	int x,y;
 	int nextx, nexty;
